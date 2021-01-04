@@ -1,5 +1,5 @@
-# SQA/SET Interview Preparation
-A curated list of resources for SQA/SET job interview.
+# SQA/SET Resources
+A curated list of resources for SQA/SET role.
 
 ## Contents
 * [Blogs](#blogs)
