@@ -20,4 +20,7 @@ A curated list of resources for SQA/SET role.
 ## SQA/SET to follow on GitHub
 * [Angie Jones](https://github.com/angiejones)
 * [Bas Dijkstra](https://github.com/basdijkstra)
-* [Elias Nogueira](https://github.com/eliasnogueira) 
+* [Elias Nogueira](https://github.com/eliasnogueira)
+
+## License
+<a rel="license" href="https://opensource.org/licenses/MIT"><img alt="MIT License" style="border-width:0" height="50" src="https://w7.pngwing.com/pngs/514/841/png-transparent-mit-license-bsd-licence-open-source-license-copyright-miscellaneous-text-logo.png" /></a><br />This work is licensed under the <a rel="license" href="https://opensource.org/licenses/MIT">MIT License</a>.
