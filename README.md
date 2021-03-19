@@ -1,12 +1,14 @@
 # SQA/SET Resources
 A curated list of resources for SQA/SET role.
 
-![](https://user-images.githubusercontent.com/6233068/111761081-ac923880-88c9-11eb-855e-1417cf3f715b.gif)
+<p align="center"><img src="https://user-images.githubusercontent.com/6233068/111761081-ac923880-88c9-11eb-855e-1417cf3f715b.gif" /></p>
 
 ## Contents
 * [Blogs](#blogs)
 * [Courses](#courses)
 * [SQA/SET to follow on GitHub](#sqaset-to-follow-on-github)
+* [Contributing](#contributing)
+* [License](#license)
 
 ## Blogs
 * [Alex Ilyenko](https://alexilyenko.github.io/) - Contains some really awesome articles on Design Patterns in Test Automation.
@@ -23,6 +25,9 @@ A curated list of resources for SQA/SET role.
 * [Angie Jones](https://github.com/angiejones)
 * [Bas Dijkstra](https://github.com/basdijkstra)
 * [Elias Nogueira](https://github.com/eliasnogueira)
+
+## Contributing
+Your contributions are always welcome. Please, go through the [Contribution Guidelines](./CONTRIBUTING.md) before submitting your suggestion.
 
 ## License
 <a rel="license" href="https://opensource.org/licenses/MIT"><img alt="MIT License" style="border-width:0" height="50" src="https://w7.pngwing.com/pngs/514/841/png-transparent-mit-license-bsd-licence-open-source-license-copyright-miscellaneous-text-logo.png" /></a><br />This work is licensed under the <a rel="license" href="https://opensource.org/licenses/MIT">MIT License</a>.
