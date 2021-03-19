@@ -1,6 +1,8 @@
 # SQA/SET Resources
 A curated list of resources for SQA/SET role.
 
+![](https://user-images.githubusercontent.com/6233068/111761081-ac923880-88c9-11eb-855e-1417cf3f715b.gif)
+
 ## Contents
 * [Blogs](#blogs)
 * [Courses](#courses)
