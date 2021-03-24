@@ -2,7 +2,7 @@
 Fixes #
 
 ### Checklist
-- [ ] Read the [Contributing Guidelines](CONTRIBUTING.md)
+- [ ] Read the [Contribution Guidelines](/CONTRIBUTING.md)
 - [ ] Checked presence of no duplication.
 - [ ] Have put lists in alphabetical order and with correct spacing.
 - [ ] Verified that no links given are broken.
