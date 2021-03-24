@@ -24,7 +24,7 @@ A curated list of resources for SQA/SET role.
 ## SQA/SET to follow on GitHub
 * [Angie Jones](https://github.com/angiejones)
 * [Bas Dijkstra](https://github.com/basdijkstra)
-* [Elias Nogueira](https://github.com/eliasnogueira)
+* [Elias Nogueira](https://github.com/eliasnogueira/404)
 
 ## Contributing
 Your contributions are always welcome. Please, go through the [Contribution Guidelines](./CONTRIBUTING.md) before submitting your suggestion.
