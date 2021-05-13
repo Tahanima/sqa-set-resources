@@ -14,6 +14,7 @@ A curated list of resources for SQA/SET role.
 * [Alex Ilyenko](https://alexilyenko.github.io/) - Contains some really awesome articles on Design Patterns in Test Automation.
 * [Angie Jones](https://angiejones.tech/) - Has a bunch of cool articles on Test Automation.
 * [DevQA.io](https://devqa.io/) - Has articles on a wide range of technical concepts.
+* [Google Testing Blog](https://testing.googleblog.com/)
 * [Nicola Lindgren](https://nickytests.blogspot.com/) - Is all about a Software Tester's learning journey.
 
 
