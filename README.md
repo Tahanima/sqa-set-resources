@@ -6,6 +6,7 @@ A curated list of resources for SQA/SET role.
 ## Contents
 * [Blogs](#blogs)
 * [Courses](#courses)
+* [GitHub Repositories](#github-repositories)
 * [SQA/SET to follow on GitHub](#sqaset-to-follow-on-github)
 * [Contributing](#contributing)
 * [License](#license)
@@ -19,10 +20,18 @@ A curated list of resources for SQA/SET role.
 * [Nicola Lindgren](http://www.nicolalindgren.com/) - Is all about a Software Tester's learning journey.
 * [Software Test Academy](https://www.swtestacademy.com/) - Has a wide range of tutorials and articles covering several tools and technologies relevant to testing.
 
-
 ## Courses
 * [Cucumber | School](https://school.cucumber.io/collections) - Learn BDD in programming languages: Java, JavaScript, Ruby and C#/.NET for free.
 * [Test Automation University](https://testautomationu.applitools.com/) - Contains free tutorials that cover web, mobile, API, visual, AI, and, codeless automation.
+
+## GitHub Repositories
+* [Awesome Appium](https://github.com/SrinivasanTarget/awesome-appium) - A curated list of delightful Appium resources.
+* [Awesome JMeter](https://github.com/aliesbelik/awesome-jmeter) - A collection of resources covering different aspects of JMeter usage.
+* [Awesome Quality Assurance Roadmap](https://github.com/fityanos/awesome-quality-assurance-roadmap) - The starting point of your career as a Software Quality Assurance Engineer | Quality Automation Engineer.
+* [Awesome Selenium](https://github.com/christian-bromann/awesome-selenium) - A curated list of delightful Selenium resources.
+* [Awesome Testing](https://github.com/TheJambo/awesome-testing) - A curated list of testing software, extensions and resources.
+* [Awesome Visual Regression Testing](https://github.com/mojoaxel/awesome-regression-testing) - A curated list of resources around the topic: visual regression testing.
+* [How They Test](https://github.com/abhivaikar/howtheytest) - A curated collection of publicly available resources on how software companies around the world test their software systems and build their quality culture.
 
 ## SQA/SET to follow on GitHub
 * [Angie Jones](https://github.com/angiejones)
