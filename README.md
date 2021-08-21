@@ -27,6 +27,7 @@ A curated list of resources for SQA/SET role.
 ## GitHub Repositories
 * [Awesome Appium](https://github.com/SrinivasanTarget/awesome-appium) - A curated list of delightful Appium resources.
 * [Awesome JMeter](https://github.com/aliesbelik/awesome-jmeter) - A collection of resources covering different aspects of JMeter usage.
+* [Awesome Penetration Testing](https://github.com/enaqx/awesome-pentest) - A collection of awesome penetration testing and offensive cybersecurity resources.
 * [Awesome Quality Assurance Roadmap](https://github.com/fityanos/awesome-quality-assurance-roadmap) - The starting point of your career as a Software Quality Assurance Engineer | Quality Automation Engineer.
 * [Awesome Selenium](https://github.com/christian-bromann/awesome-selenium) - A curated list of delightful Selenium resources.
 * [Awesome Testing](https://github.com/TheJambo/awesome-testing) - A curated list of testing software, extensions and resources.
