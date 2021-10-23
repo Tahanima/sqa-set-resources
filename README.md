@@ -16,6 +16,7 @@ A curated list of resources for SQA/SET role.
 * [DevQA.io](https://devqa.io/) - Has articles on a wide range of technical concepts.
 * [Google Testing Blog](https://testing.googleblog.com/) - Contains a wide range of articles relevant to testing.
 * [Nicola Lindgren](http://www.nicolalindgren.com/) - Is all about a Software Tester's learning journey.
+* [QA Madness](https://www.qamadness.com/blog) - Contains several articles on various aspects of Software Testing.
 * [Software Test Academy](https://www.swtestacademy.com/) - Has a wide range of tutorials and articles covering several tools and technologies relevant to testing.
 
 ## Courses
