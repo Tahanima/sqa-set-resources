@@ -14,6 +14,7 @@ A curated list of resources for SQA/SET role.
 * [Angie Jones](https://angiejones.tech/) - Has a bunch of cool articles on Test Automation.
 * [Blake Norrish](https://medium.com/@blakenorrish) - Has some great articles on the technical aspects relevant to Test Automation.
 * [DevQA.io](https://devqa.io/) - Has articles on a wide range of technical concepts.
+* [Find Zen in test automation - Easy recipes for every day](https://learning-testing.com/)
 * [Google Testing Blog](https://testing.googleblog.com/) - Contains a wide range of articles relevant to testing.
 * [Lauren Christianson](https://medium.com/@laurenchristianson)
 * [Nicola Lindgren](http://www.nicolalindgren.com/) - Is all about a Software Tester's learning journey.
