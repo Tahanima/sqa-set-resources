@@ -5,6 +5,7 @@ A curated list of resources for SQA/SET role.
 * [Blogs](#blogs)
 * [Courses](#courses)
 * [GitHub Repositories](#github-repositories)
+* [Roadmap](#roadmap)
 * [SQA/SET to follow on GitHub](#sqaset-to-follow-on-github)
 * [Contributing](#contributing)
 * [License](#license)
@@ -34,6 +35,9 @@ A curated list of resources for SQA/SET role.
 * [Awesome Testing](https://github.com/TheJambo/awesome-testing) - A curated list of testing software, extensions and resources.
 * [Awesome Visual Regression Testing](https://github.com/mojoaxel/awesome-regression-testing) - A curated list of resources around the topic: visual regression testing.
 * [How They Test](https://github.com/abhivaikar/howtheytest) - A curated collection of publicly available resources on how software companies around the world test their software systems and build their quality culture.
+
+## Roadmap
+* [Roadmap To Becoming A Test Automation Engineer](https://www.ministryoftesting.com/dojo/lessons/roadmap-to-becoming-a-test-automation-engineer)
 
 ## SQA/SET to follow on GitHub
 * [Angie Jones](https://github.com/angiejones)
