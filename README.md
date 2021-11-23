@@ -7,6 +7,7 @@ A curated list of resources for SQA/SET role.
 * [GitHub Repositories](#github-repositories)
 * [Roadmap](#roadmap)
 * [SQA/SET to follow on GitHub](#sqaset-to-follow-on-github)
+* [YouTube Channel](#youtube-channel)
 * [Contributing](#contributing)
 * [License](#license)
 
@@ -43,6 +44,9 @@ A curated list of resources for SQA/SET role.
 * [Angie Jones](https://github.com/angiejones)
 * [Bas Dijkstra](https://github.com/basdijkstra)
 * [Elias Nogueira](https://github.com/eliasnogueira)
+
+## YouTube Channel
+* [ EvilTester - Software Testing](https://www.youtube.com/c/EvilTester)
 
 ## Contributing
 Your contributions are always welcome. Please, go through the [Contribution Guidelines](./CONTRIBUTING.md) before submitting your suggestion.
