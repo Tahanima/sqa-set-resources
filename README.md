@@ -22,6 +22,7 @@ A curated list of resources for SQA/SET role.
 * [Nicola Lindgren](http://www.nicolalindgren.com/) - Is all about a Software Tester's learning journey.
 * [QA Madness](https://www.qamadness.com/blog) - Contains several articles on various aspects of Software Testing.
 * [Software Test Academy](https://www.swtestacademy.com/) - Has a wide range of tutorials and articles covering several tools and technologies relevant to testing.
+* [Try QA](http://tryqa.com/) - Contains study materials for ISTQB Exam Certification Foundation level, Premium and Free for ISTQB and ASTQB Exam, Certification questions, answers, software testing tutorials and more.
 
 ## Courses
 * [Cucumber | School](https://school.cucumber.io/collections) - Learn BDD in programming languages: Java, JavaScript, Ruby and C#/.NET for free.
