@@ -19,6 +19,7 @@ A curated list of resources for SQA/SET role.
 * [Find Zen in test automation - Easy recipes for every day](https://learning-testing.com/)
 * [Google Testing Blog](https://testing.googleblog.com/) - Contains a wide range of articles relevant to testing.
 * [Lauren Christianson](https://medium.com/@laurenchristianson)
+* [Next Generation Automation](https://www.nextgenerationautomation.com/blog)
 * [Nicola Lindgren](http://www.nicolalindgren.com/) - Is all about a Software Tester's learning journey.
 * [QA Madness](https://www.qamadness.com/blog) - Contains several articles on various aspects of Software Testing.
 * [Software Test Academy](https://www.swtestacademy.com/) - Has a wide range of tutorials and articles covering several tools and technologies relevant to testing.
