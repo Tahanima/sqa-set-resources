@@ -14,15 +14,19 @@ A curated list of resources for SQA/SET role.
 ## Blogs
 * [Alex Ilyenko](https://alexilyenko.github.io/) - Contains some really awesome articles on Design Patterns in Test Automation.
 * [Angie Jones](https://angiejones.tech/) - Has a bunch of cool articles on Test Automation.
+* [Atlassian Software Testing](https://www.atlassian.com/continuous-delivery/software-testing)
 * [Blake Norrish](https://medium.com/@blakenorrish) - Has some great articles on the technical aspects relevant to Test Automation.
 * [DevQA.io](https://devqa.io/) - Has articles on a wide range of technical concepts.
 * [Find Zen in test automation - Easy recipes for every day](https://learning-testing.com/)
 * [Google Testing Blog](https://testing.googleblog.com/) - Contains a wide range of articles relevant to testing.
 * [Lauren Christianson](https://medium.com/@laurenchristianson)
+* [LinkedIn Testing](https://engineering.linkedin.com/blog/topic/testing)
 * [Next Generation Automation](https://www.nextgenerationautomation.com/blog)
 * [Nicola Lindgren](http://www.nicolalindgren.com/) - Is all about a Software Tester's learning journey.
 * [QA Madness](https://www.qamadness.com/blog) - Contains several articles on various aspects of Software Testing.
+* [Responsible Automation](https://responsibleautomation.wordpress.com/) - Paul Grizzaffi's blog about being responsible with automation, testing, and other things.
 * [Software Test Academy](https://www.swtestacademy.com/) - Has a wide range of tutorials and articles covering several tools and technologies relevant to testing.
+* [TestingSpot Blog](https://techcommunity.microsoft.com/t5/testingspot-blog/bg-p/TestingSpotBlog)
 * [Try QA](http://tryqa.com/) - Contains study materials for ISTQB Exam Certification Foundation level, Premium and Free for ISTQB and ASTQB Exam, Certification questions, answers, software testing tutorials and more.
 
 ## Courses
