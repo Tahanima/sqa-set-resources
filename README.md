@@ -27,6 +27,7 @@ A curated list of resources for SQA/SET role.
 * [QA Madness](https://www.qamadness.com/blog) - Contains several articles on various aspects of Software Testing.
 * [Responsible Automation](https://responsibleautomation.wordpress.com/) - Paul Grizzaffi's blog about being responsible with automation, testing, and other things.
 * [Software Test Academy](https://www.swtestacademy.com/) - Has a wide range of tutorials and articles covering several tools and technologies relevant to testing.
+* [Test And Analysis](https://testandanalysis.home.blog/)
 * [TestingSpot Blog](https://techcommunity.microsoft.com/t5/testingspot-blog/bg-p/TestingSpotBlog)
 * [Try QA](http://tryqa.com/) - Contains study materials for ISTQB Exam Certification Foundation level, Premium and Free for ISTQB and ASTQB Exam, Certification questions, answers, software testing tutorials and more.
 
