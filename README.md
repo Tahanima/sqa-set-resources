@@ -20,7 +20,6 @@ A curated list of resources for SQA/SET role.
 * [DevQA.io](https://devqa.io/) - Has articles on a wide range of technical concepts.
 * [Find Zen in test automation - Easy recipes for every day](https://learning-testing.com/)
 * [Google Testing Blog](https://testing.googleblog.com/) - Contains a wide range of articles relevant to testing.
-* [Lauren Christianson](https://medium.com/@laurenchristianson)
 * [LinkedIn Testing](https://engineering.linkedin.com/blog/topic/testing)
 * [Mindful Tester](https://mindfultester.com/)
 * [Next Generation Automation](https://www.nextgenerationautomation.com/blog)
