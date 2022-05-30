@@ -15,12 +15,14 @@ A curated list of resources for SQA/SET role.
 * [Alex Ilyenko](https://alexilyenko.github.io/) - Contains some really awesome articles on Design Patterns in Test Automation.
 * [Angie Jones](https://angiejones.tech/) - Has a bunch of cool articles on Test Automation.
 * [Atlassian Software Testing](https://www.atlassian.com/continuous-delivery/software-testing)
+* [Automation Panda](https://automationpanda.com/)
 * [Blake Norrish](https://medium.com/@blakenorrish) - Has some great articles on the technical aspects relevant to Test Automation.
 * [DevQA.io](https://devqa.io/) - Has articles on a wide range of technical concepts.
 * [Find Zen in test automation - Easy recipes for every day](https://learning-testing.com/)
 * [Google Testing Blog](https://testing.googleblog.com/) - Contains a wide range of articles relevant to testing.
 * [Lauren Christianson](https://medium.com/@laurenchristianson)
 * [LinkedIn Testing](https://engineering.linkedin.com/blog/topic/testing)
+* [Mindful Tester](https://mindfultester.com/)
 * [Next Generation Automation](https://www.nextgenerationautomation.com/blog)
 * [Nicola Lindgren](http://www.nicolalindgren.com/) - Is all about a Software Tester's learning journey.
 * [QA Madness](https://www.qamadness.com/blog) - Contains several articles on various aspects of Software Testing.
