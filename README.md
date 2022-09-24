@@ -35,6 +35,7 @@ A curated list of resources for SQA/SET role.
 * [Cucumber | School](https://school.cucumber.io/collections) - Learn BDD in programming languages: Java, JavaScript, Ruby and C#/.NET for free.
 * [Test Automation University](https://testautomationu.applitools.com/) - Contains free tutorials that cover web, mobile, API, visual, AI, and, codeless automation.
 * [Web Application Security, Testing, & Scanning - PortSwigger](https://portswigger.net/) - Contains tutorials on web secutiry.
+* [BBST Video Lectures](https://bbst.courses/videos/)
 
 ## GitHub Repositories
 * [Awesome Appium](https://github.com/SrinivasanTarget/awesome-appium) - A curated list of delightful Appium resources.
