@@ -46,6 +46,7 @@ A curated list of resources for SQA/SET role.
 * [Awesome Testing](https://github.com/TheJambo/awesome-testing) - A curated list of testing software, extensions and resources.
 * [Awesome Visual Regression Testing](https://github.com/mojoaxel/awesome-regression-testing) - A curated list of resources around the topic: visual regression testing.
 * [How They Test](https://github.com/abhivaikar/howtheytest) - A curated collection of publicly available resources on how software companies around the world test their software systems and build their quality culture.
+* [Awesome Playwright](https://github.com/mxschmitt/awesome-playwright) - A curated list of awesome tools, utils and projects using Playwright.
 
 ## Roadmap
 * [Roadmap To Becoming A Test Automation Engineer](https://www.ministryoftesting.com/dojo/lessons/roadmap-to-becoming-a-test-automation-engineer)
